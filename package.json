@@ -1,6 +1,6 @@
 {
   "name": "cfg-graph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CFG.js Graph API helper",
   "main": "lib/graph.js",
   "scripts": {
