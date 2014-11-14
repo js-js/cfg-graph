@@ -1,0 +1,30 @@
+{
+  "name": "cfg-graph",
+  "version": "1.0.0",
+  "description": "CFG.js Graph API helper",
+  "main": "lib/graph.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/**/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:js-js/cfg-graph"
+  },
+  "keywords": [
+    "CFG",
+    "CFG.js",
+    "JIT",
+    "Control",
+    "Flow",
+    "Graph"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-js/cfg-graph/issues"
+  },
+  "homepage": "https://github.com/js-js/cfg-graph",
+  "devDependencies": {
+    "cfg-ir": "^0.4.5"
+  }
+}
